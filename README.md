@@ -9,7 +9,7 @@ Soon to be a grad with a Bachelor's of Science in Computer Science and looking t
 * 🌍  I'm based in London.
 * 🖥️  See my portfolio at [dhruvsantilal.com](http://dhruvsantilal.com)
 * ✉️  You can contact me at [dhruvsantilal.com](mailto:dhruvsantilal.com)
-* 🧠  I'm learning and Mastering React.js
+* 🧠  Currently learning React.js.
 
 ### Skills
 
