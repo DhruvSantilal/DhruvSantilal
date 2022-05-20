@@ -45,4 +45,4 @@ Soon to be a grad with a Bachelor's of Science in Computer Science and looking t
 
 <a href="http://www.github.com/DhruvSantilal"><img src="https://github-readme-stats.vercel.app/api?username=DhruvSantilal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DhruvSantilal's GitHub stats" /></a>
 
-<a href="https://github.com/DhruvSantilal?tab=repositories" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSantilal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%10%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/DhruvSantilal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSantilal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%10%Languages" alt="Top Languages" /></a>
