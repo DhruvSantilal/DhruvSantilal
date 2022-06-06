@@ -9,7 +9,7 @@ Front-end Software Engineer/ Web Developer
 
 📚 Most experienced within JavaScript [React.JS, Next.JS], HTML, CSS/CSS frameworks [Tailwind, Bootstrap, Material UI and Sass ] and Java.
 
-💻 Well familliar with working in a group using methodologies such as AGILE, SCRUM, Kanban and Github.
+💻 Well familliar with working in a group using methodologies such as AGILE, SCRUM, Kanban and Github and Testing.
 
 * 🖥️  See my portfolio at [dhruvsantilal.com](http://dhruvsantilal.com)
 * ✉️  You can contact me at [dhruvsantilal.com](mailto:dhruvsantilal.com)
