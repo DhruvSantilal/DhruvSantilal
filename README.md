@@ -1,12 +1,16 @@
 Hi 👋 My name is Dhruv Santilal
 ===============================
 
-Software Engineer/ Web Developer
+Front-end Software Engineer/ Web Developer
 --------------------------------
+🌍  I'm based in London.
 
-Soon to be a grad with a Bachelor's of Science in Computer Science and looking to expand my skills.
+🌇 London based, with a passion for front-end development and software development.
 
-* 🌍  I'm based in London.
+📚 Most experienced within JavaScript [React.JS, Next.JS], HTML, CSS/CSS frameworks [Tailwind, Bootstrap, Material UI and Sass ] and Java.
+
+💻 Well familliar with working in a group using methodologies such as AGILE, SCRUM, Kanban and Github.
+
 * 🖥️  See my portfolio at [dhruvsantilal.com](http://dhruvsantilal.com)
 * ✉️  You can contact me at [dhruvsantilal.com](mailto:dhruvsantilal.com)
 * 🧠  Currently learning Reactjs and CSS frameworks.
